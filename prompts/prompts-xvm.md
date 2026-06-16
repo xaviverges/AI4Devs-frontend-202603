@@ -1,7 +1,11 @@
 # Prompts XVM
 
 Registro de los prompts escritos por el usuario durante el desarrollo del frontend.
+Se han excluido expresamente por no formar parte del enunciado el frontend-requirements.md, que es basicamente el enunciado del ejercicio.
 
+Se ha utilizado Claude Code Sonnet 4.6 
+
+Se incluye resumen de las respuestas de Claude.
 ---
 
 ## Sesión: Interfaz "position" (kanban de candidatos)
